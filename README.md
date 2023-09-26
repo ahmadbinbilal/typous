@@ -1,3 +1,3 @@
 # typous
  
-Yummy.
+typewriter effect in 475 bytes
